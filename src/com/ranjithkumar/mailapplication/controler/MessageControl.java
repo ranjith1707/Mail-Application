@@ -2,7 +2,7 @@ package controller;
 
 import database.DatabaseManagement;
 import model.Mail;
-import model.MailDatabase;
+import repository.MailDatabase;
 
 public class MessageControl {
 	
