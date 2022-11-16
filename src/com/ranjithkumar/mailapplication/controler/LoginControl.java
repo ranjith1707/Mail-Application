@@ -1,5 +1,5 @@
 package controller;
-import model.MailDatabase;
+import repositort.MailDatabase;
 public class LoginControl {
 	
 	
