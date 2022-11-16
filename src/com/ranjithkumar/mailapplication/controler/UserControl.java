@@ -1,6 +1,6 @@
 package controller;
 
-import model.MailDatabase;
+import repository.MailDatabase;
 
 public class UserControl {
    public boolean userIsFound(String userId) {
